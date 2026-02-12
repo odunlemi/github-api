@@ -1,0 +1,1656 @@
+[
+  {
+    "login": "rufai",
+    "name": "Mustapha Rufai ",
+    "bio": "Software Engineer. Technical Writer. Loves teaching.",
+    "avatar_url": "https://avatars.githubusercontent.com/u/3373680?v=4",
+    "html_url": "https://github.com/rufai",
+    "public_repos": 89,
+    "followers": 54,
+    "stars": 32,
+    "languages": ["JavaScript", "Java", "HTML", "PHP", "CSS"],
+    "recentEvents": [
+      {
+        "type": "CreateEvent",
+        "repo": "GidigboGidigbo/GidigboGidigbo",
+        "payload": {
+          "ref": "main",
+          "ref_type": "branch",
+          "full_ref": "refs/heads/main",
+          "master_branch": "main",
+          "description": null,
+          "pusher_type": "user",
+          "size": 0
+        },
+        "created_at": "2026-02-05T19:20:12Z"
+      },
+      {
+        "type": "MemberEvent",
+        "repo": "winnerbanjo/alphatravels",
+        "payload": {
+          "member": {
+            "login": "rufai",
+            "id": 3373680,
+            "node_id": "MDQ6VXNlcjMzNzM2ODA=",
+            "avatar_url": "https://avatars.githubusercontent.com/u/3373680?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/rufai",
+            "html_url": "https://github.com/rufai",
+            "followers_url": "https://api.github.com/users/rufai/followers",
+            "following_url": "https://api.github.com/users/rufai/following{/other_user}",
+            "gists_url": "https://api.github.com/users/rufai/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/rufai/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/rufai/subscriptions",
+            "organizations_url": "https://api.github.com/users/rufai/orgs",
+            "repos_url": "https://api.github.com/users/rufai/repos",
+            "events_url": "https://api.github.com/users/rufai/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/rufai/received_events",
+            "type": "User",
+            "user_view_type": "public",
+            "site_admin": false
+          },
+          "action": "added",
+          "size": 0
+        },
+        "created_at": "2026-02-05T09:29:35Z"
+      },
+      {
+        "type": "PushEvent",
+        "repo": "GidigboGidigbo/js-learning",
+        "payload": {
+          "repository_id": 1140109735,
+          "push_id": 30235436780,
+          "ref": "refs/heads/main",
+          "head": "2a993461561dde6341d11da82d4eaad376ecda02",
+          "before": "d1f7f7bef17235e59a88f27626cbf925f82f57e5",
+          "size": 0
+        },
+        "created_at": "2026-01-29T13:13:39Z"
+      },
+      {
+        "type": "PushEvent",
+        "repo": "GidigboGidigbo/js-learning",
+        "payload": {
+          "repository_id": 1140109735,
+          "push_id": 30235391052,
+          "ref": "refs/heads/main",
+          "head": "d1f7f7bef17235e59a88f27626cbf925f82f57e5",
+          "before": "fa2a682e2712f8e9095ecbb576c9ced17653584f",
+          "size": 0
+        },
+        "created_at": "2026-01-29T13:12:14Z"
+      },
+      {
+        "type": "PushEvent",
+        "repo": "rufai/alphatest",
+        "payload": {
+          "repository_id": 1138805218,
+          "push_id": 29965373468,
+          "ref": "refs/heads/master",
+          "head": "1117bb82fbf895a75c831ebdcc1d3086f529bdda",
+          "before": "718ebd1c007e189eb0fd441b51f37852e3d17021",
+          "size": 0
+        },
+        "created_at": "2026-01-21T07:20:17Z"
+      }
+    ]
+  },
+  {
+    "login": "theonlySophia",
+    "name": null,
+    "bio": "...",
+    "avatar_url": "https://avatars.githubusercontent.com/u/100859618?v=4",
+    "html_url": "https://github.com/theonlySophia",
+    "public_repos": 8,
+    "followers": 0,
+    "stars": 0,
+    "languages": ["JavaScript", "HTML"],
+    "recentEvents": [
+      {
+        "type": "PushEvent",
+        "repo": "theonlySophia/winAMovie",
+        "payload": {
+          "repository_id": 1154397605,
+          "push_id": 30602620779,
+          "ref": "refs/heads/main",
+          "head": "01afbb4867bf09ac7abd566da31fcc6792ff26ca",
+          "before": "6287be281b021d29604bd4d6367c10fd8e8b8e0f",
+          "size": 0
+        },
+        "created_at": "2026-02-10T12:57:14Z"
+      },
+      {
+        "type": "PushEvent",
+        "repo": "theonlySophia/winAMovie",
+        "payload": {
+          "repository_id": 1154397605,
+          "push_id": 30609483907,
+          "ref": "refs/heads/main",
+          "head": "929067d06815bfd586b09c61150728235ec6298f",
+          "before": "01afbb4867bf09ac7abd566da31fcc6792ff26ca",
+          "size": 0
+        },
+        "created_at": "2026-02-10T16:18:49Z"
+      },
+      {
+        "type": "PushEvent",
+        "repo": "theonlySophia/winAMovie",
+        "payload": {
+          "repository_id": 1154397605,
+          "push_id": 30602377251,
+          "ref": "refs/heads/main",
+          "head": "6287be281b021d29604bd4d6367c10fd8e8b8e0f",
+          "before": "a55b834db0b0bcff72bcebee2f2aa761ebc5ecb7",
+          "size": 0
+        },
+        "created_at": "2026-02-10T12:49:34Z"
+      },
+      {
+        "type": "PushEvent",
+        "repo": "theonlySophia/winAMovie",
+        "payload": {
+          "repository_id": 1154397605,
+          "push_id": 30601974282,
+          "ref": "refs/heads/main",
+          "head": "a55b834db0b0bcff72bcebee2f2aa761ebc5ecb7",
+          "before": "073b494aa2af6d6acc7c2878ba419983184a85e5",
+          "size": 0
+        },
+        "created_at": "2026-02-10T12:36:31Z"
+      },
+      {
+        "type": "PushEvent",
+        "repo": "theonlySophia/winAMovie",
+        "payload": {
+          "repository_id": 1154397605,
+          "push_id": 30601855835,
+          "ref": "refs/heads/main",
+          "head": "073b494aa2af6d6acc7c2878ba419983184a85e5",
+          "before": "9bb6f47572cc2dfa8bb6eb18b696d8a07708ad87",
+          "size": 0
+        },
+        "created_at": "2026-02-10T12:32:29Z"
+      }
+    ]
+  },
+  {
+    "login": "osemenjoy",
+    "name": "Esezobor Osemen",
+    "bio": "...",
+    "avatar_url": "https://avatars.githubusercontent.com/u/136025110?v=4",
+    "html_url": "https://github.com/osemenjoy",
+    "public_repos": 59,
+    "followers": 7,
+    "stars": 0,
+    "languages": ["Python", "HTML", "Shell", "JavaScript", "CSS"],
+    "recentEvents": [
+      {
+        "type": "CreateEvent",
+        "repo": "osemenjoy/Weather_-_Pokemon",
+        "payload": {
+          "ref": "gh-pages",
+          "ref_type": "branch",
+          "full_ref": "refs/heads/gh-pages",
+          "master_branch": "main",
+          "description": null,
+          "pusher_type": "user",
+          "size": 0
+        },
+        "created_at": "2026-02-10T17:32:25Z"
+      },
+      {
+        "type": "PushEvent",
+        "repo": "osemenjoy/Weather_-_Pokemon",
+        "payload": {
+          "repository_id": 1154700606,
+          "push_id": 30611829173,
+          "ref": "refs/heads/main",
+          "head": "56771933fa2c34f6e13cd2d4e6b439ecb2079e23",
+          "before": "1c503135d9d61b90d3c5dd15bf8e31c2cd595fc6",
+          "size": 0
+        },
+        "created_at": "2026-02-10T17:31:45Z"
+      },
+      {
+        "type": "PushEvent",
+        "repo": "osemenjoy/Weather_-_Pokemon",
+        "payload": {
+          "repository_id": 1154700606,
+          "push_id": 30611782733,
+          "ref": "refs/heads/main",
+          "head": "1c503135d9d61b90d3c5dd15bf8e31c2cd595fc6",
+          "before": "68476b3fabd5cbded1a745b0eadfa84783c09c22",
+          "size": 0
+        },
+        "created_at": "2026-02-10T17:30:14Z"
+      },
+      {
+        "type": "PushEvent",
+        "repo": "osemenjoy/Weather_-_Pokemon",
+        "payload": {
+          "repository_id": 1154700606,
+          "push_id": 30611767246,
+          "ref": "refs/heads/main",
+          "head": "68476b3fabd5cbded1a745b0eadfa84783c09c22",
+          "before": "44d63bf0570c37e4b59ea24dc6c30fd53b753905",
+          "size": 0
+        },
+        "created_at": "2026-02-10T17:29:44Z"
+      },
+      {
+        "type": "PushEvent",
+        "repo": "osemenjoy/Weather_-_Pokemon",
+        "payload": {
+          "repository_id": 1154700606,
+          "push_id": 30611616968,
+          "ref": "refs/heads/main",
+          "head": "44d63bf0570c37e4b59ea24dc6c30fd53b753905",
+          "before": "ae70a8d053d14e093fd1fec97ed366635d699306",
+          "size": 0
+        },
+        "created_at": "2026-02-10T17:24:37Z"
+      }
+    ]
+  },
+  {
+    "login": "Byord-ml",
+    "name": "Samuel Abiodun Aguda",
+    "bio": "...",
+    "avatar_url": "https://avatars.githubusercontent.com/u/184526634?v=4",
+    "html_url": "https://github.com/Byord-ml",
+    "public_repos": 10,
+    "followers": 0,
+    "stars": 1,
+    "languages": ["Python", "HTML"],
+    "recentEvents": [
+      {
+        "type": "PushEvent",
+        "repo": "Byord-ml/Rise-Academy",
+        "payload": {
+          "repository_id": 1154590446,
+          "push_id": 30607517761,
+          "ref": "refs/heads/main",
+          "head": "45edda2da41ac93cc89e7743fab5459fc4e81155",
+          "before": "3e5073723f8eb9cc3120800e211ecab7025fac4a",
+          "size": 0
+        },
+        "created_at": "2026-02-10T15:21:04Z"
+      },
+      {
+        "type": "PushEvent",
+        "repo": "Byord-ml/Rise-Academy",
+        "payload": {
+          "repository_id": 1154590446,
+          "push_id": 30607416756,
+          "ref": "refs/heads/main",
+          "head": "3e5073723f8eb9cc3120800e211ecab7025fac4a",
+          "before": "79f267396314377da69374b2e8e829a8e148bdf0",
+          "size": 0
+        },
+        "created_at": "2026-02-10T15:18:08Z"
+      },
+      {
+        "type": "PushEvent",
+        "repo": "Byord-ml/Rise-Academy",
+        "payload": {
+          "repository_id": 1154590446,
+          "push_id": 30607048524,
+          "ref": "refs/heads/main",
+          "head": "be66e0f0c42aec8b295b5564a702e9266d4db6d0",
+          "before": "1c5659d4e2a1306e7ffe93765b64764936d7fe4f",
+          "size": 0
+        },
+        "created_at": "2026-02-10T15:07:52Z"
+      },
+      {
+        "type": "PushEvent",
+        "repo": "Byord-ml/Rise-Academy",
+        "payload": {
+          "repository_id": 1154590446,
+          "push_id": 30607239789,
+          "ref": "refs/heads/main",
+          "head": "79f267396314377da69374b2e8e829a8e148bdf0",
+          "before": "be66e0f0c42aec8b295b5564a702e9266d4db6d0",
+          "size": 0
+        },
+        "created_at": "2026-02-10T15:13:10Z"
+      },
+      {
+        "type": "CreateEvent",
+        "repo": "Byord-ml/Rise-Academy",
+        "payload": {
+          "ref": "main",
+          "ref_type": "branch",
+          "full_ref": "refs/heads/main",
+          "master_branch": "main",
+          "description": "Backend Engineering with Javascript",
+          "pusher_type": "user",
+          "size": 0
+        },
+        "created_at": "2026-02-10T15:04:32Z"
+      }
+    ]
+  },
+  {
+    "login": "Ano-ly",
+    "name": null,
+    "bio": "I'm a young tech enthusiast who also happens to be a diehard anime and music fan.",
+    "avatar_url": "https://avatars.githubusercontent.com/u/129555135?v=4",
+    "html_url": "https://github.com/Ano-ly",
+    "public_repos": 47,
+    "followers": 2,
+    "stars": 4,
+    "languages": ["Python", "JavaScript", "C", "HTML", "Shell"],
+    "recentEvents": [
+      {
+        "type": "PushEvent",
+        "repo": "Ano-ly/ano-ly.github.io",
+        "payload": {
+          "repository_id": 861553548,
+          "push_id": 30639906921,
+          "ref": "refs/heads/main",
+          "head": "7a94b6efb0ab678747a1290f80b450c52d5577b8",
+          "before": "2435e0d7a55ea5ef9d5f0bc439bf69297c656359",
+          "size": 0
+        },
+        "created_at": "2026-02-11T13:07:16Z"
+      },
+      {
+        "type": "PushEvent",
+        "repo": "Ano-ly/ano-ly.github.io",
+        "payload": {
+          "repository_id": 861553548,
+          "push_id": 30639805116,
+          "ref": "refs/heads/main",
+          "head": "2435e0d7a55ea5ef9d5f0bc439bf69297c656359",
+          "before": "76a40778581829050b69869fbf1a323e042db6b1",
+          "size": 0
+        },
+        "created_at": "2026-02-11T13:04:12Z"
+      },
+      {
+        "type": "PushEvent",
+        "repo": "Ano-ly/feed_the_populace",
+        "payload": {
+          "repository_id": 1152128782,
+          "push_id": 30603470518,
+          "ref": "refs/heads/main",
+          "head": "c42ffe2fd1433311ad9c8772c655bdf0516cbb5a",
+          "before": "c1e8943de813993d61bd7eead9035623d75d20a5",
+          "size": 0
+        },
+        "created_at": "2026-02-10T13:23:04Z"
+      },
+      {
+        "type": "PushEvent",
+        "repo": "Ano-ly/feed_the_populace",
+        "payload": {
+          "repository_id": 1152128782,
+          "push_id": 30604470327,
+          "ref": "refs/heads/main",
+          "head": "771571015c3d312b6a87a47726bf5fbfb82996d0",
+          "before": "c42ffe2fd1433311ad9c8772c655bdf0516cbb5a",
+          "size": 0
+        },
+        "created_at": "2026-02-10T13:53:41Z"
+      },
+      {
+        "type": "PushEvent",
+        "repo": "Ano-ly/feed_the_populace",
+        "payload": {
+          "repository_id": 1152128782,
+          "push_id": 30593694902,
+          "ref": "refs/heads/main",
+          "head": "9fe5d9079a265836027df666e6474a5e3af35cc2",
+          "before": "d738e2b356b7c80f2abce666ad6e646a259fc475",
+          "size": 0
+        },
+        "created_at": "2026-02-10T07:56:35Z"
+      }
+    ]
+  },
+  {
+    "login": "odunlemi",
+    "name": "Abiodun Longe",
+    "bio": "...",
+    "avatar_url": "https://avatars.githubusercontent.com/u/63048442?v=4",
+    "html_url": "https://github.com/odunlemi",
+    "public_repos": 37,
+    "followers": 5,
+    "stars": 0,
+    "languages": ["CSS", "JavaScript", "HTML", "Jupyter Notebook", "Python"],
+    "recentEvents": [
+      {
+        "type": "PushEvent",
+        "repo": "odunlemi/json-placeholder",
+        "payload": {
+          "repository_id": 1151261818,
+          "push_id": 30610681742,
+          "ref": "refs/heads/main",
+          "head": "e8793731924e44c5206a43d6cc21849ff3edcd38",
+          "before": "923ff2f91723049c55860cc44790e6866d515471",
+          "size": 0
+        },
+        "created_at": "2026-02-10T16:55:01Z"
+      },
+      {
+        "type": "WatchEvent",
+        "repo": "mitchellh/vouch",
+        "payload": {
+          "action": "started",
+          "size": 0
+        },
+        "created_at": "2026-02-09T07:22:49Z"
+      },
+      {
+        "type": "WatchEvent",
+        "repo": "jsbenchmarks/jsbenchmarks",
+        "payload": {
+          "action": "started",
+          "size": 0
+        },
+        "created_at": "2026-02-06T20:19:55Z"
+      },
+      {
+        "type": "CreateEvent",
+        "repo": "odunlemi/json-placeholder",
+        "payload": {
+          "ref": "main",
+          "ref_type": "branch",
+          "full_ref": "refs/heads/main",
+          "master_branch": "main",
+          "description": null,
+          "pusher_type": "user",
+          "size": 0
+        },
+        "created_at": "2026-02-06T08:47:59Z"
+      },
+      {
+        "type": "PushEvent",
+        "repo": "GidigboGidigbo/js-learning",
+        "payload": {
+          "repository_id": 1140109735,
+          "push_id": 30486549770,
+          "ref": "refs/heads/main",
+          "head": "dc539f2e912e32a0741566c93ab80f4fce51ae58",
+          "before": "2a993461561dde6341d11da82d4eaad376ecda02",
+          "size": 0
+        },
+        "created_at": "2026-02-06T08:41:02Z"
+      }
+    ]
+  },
+  {
+    "login": "cchukwuetoo",
+    "name": "Chinyere",
+    "bio": "...",
+    "avatar_url": "https://avatars.githubusercontent.com/u/157247073?v=4",
+    "html_url": "https://github.com/cchukwuetoo",
+    "public_repos": 18,
+    "followers": 0,
+    "stars": 0,
+    "languages": ["JavaScript", "TypeScript"],
+    "recentEvents": [
+      {
+        "type": "PushEvent",
+        "repo": "cchukwuetoo/Simple-Spoon",
+        "payload": {
+          "repository_id": 1154562417,
+          "push_id": 30606269247,
+          "ref": "refs/heads/main",
+          "head": "65f58ef2c85180281cbf8a9ec799532a82277e23",
+          "before": "1da97fdf5cc489b8c917d95fb91c24070d9a8a89",
+          "size": 0
+        },
+        "created_at": "2026-02-10T14:45:53Z"
+      },
+      {
+        "type": "CreateEvent",
+        "repo": "cchukwuetoo/Simple-Spoon",
+        "payload": {
+          "ref": "main",
+          "ref_type": "branch",
+          "full_ref": "refs/heads/main",
+          "master_branch": "main",
+          "description": null,
+          "pusher_type": "user",
+          "size": 0
+        },
+        "created_at": "2026-02-10T14:29:35Z"
+      },
+      {
+        "type": "WatchEvent",
+        "repo": "GidigboGidigbo/js-learning",
+        "payload": {
+          "action": "started",
+          "size": 0
+        },
+        "created_at": "2026-01-29T19:22:57Z"
+      }
+    ]
+  },
+  {
+    "login": "cyryl1",
+    "name": "Praise Aribisala",
+    "bio": "...",
+    "avatar_url": "https://avatars.githubusercontent.com/u/100111644?v=4",
+    "html_url": "https://github.com/cyryl1",
+    "public_repos": 56,
+    "followers": 5,
+    "stars": 2,
+    "languages": ["Python", "HTML", "JavaScript", "C", "CSS"],
+    "recentEvents": [
+      {
+        "type": "PushEvent",
+        "repo": "cyryl1/chakam",
+        "payload": {
+          "repository_id": 1153607704,
+          "push_id": 30571877972,
+          "ref": "refs/heads/main",
+          "head": "16fddb276177c2d8dfdd1c027ec6ffffd2dd183e",
+          "before": "f294530b47256d85b0f17fe3da3a378c1186cdb2",
+          "size": 0
+        },
+        "created_at": "2026-02-09T15:32:29Z"
+      },
+      {
+        "type": "CreateEvent",
+        "repo": "cyryl1/chakam",
+        "payload": {
+          "ref": "main",
+          "ref_type": "branch",
+          "full_ref": "refs/heads/main",
+          "master_branch": "main",
+          "description": null,
+          "pusher_type": "user",
+          "size": 0
+        },
+        "created_at": "2026-02-09T15:21:29Z"
+      }
+    ]
+  },
+  {
+    "login": "Daniel-Ojo-Williams",
+    "name": "Daniel Ojo-Williams",
+    "bio": "Backend developer passionate about learning and leveraging NodeJS to build scalable and efficient applications. Eager to contribute, grow in backend technology.",
+    "avatar_url": "https://avatars.githubusercontent.com/u/143351055?v=4",
+    "html_url": "https://github.com/Daniel-Ojo-Williams",
+    "public_repos": 46,
+    "followers": 2,
+    "stars": 0,
+    "languages": ["TypeScript", "JavaScript", "HTML", "Go", "CSS"],
+    "recentEvents": [
+      {
+        "type": "CreateEvent",
+        "repo": "Daniel-Ojo-Williams/ricky-mortem",
+        "payload": {
+          "ref": "main",
+          "ref_type": "branch",
+          "full_ref": "refs/heads/main",
+          "master_branch": "main",
+          "description": null,
+          "pusher_type": "user",
+          "size": 0
+        },
+        "created_at": "2026-02-10T16:07:52Z"
+      },
+      {
+        "type": "PushEvent",
+        "repo": "Daniel-Ojo-Williams/ricky-mortem",
+        "payload": {
+          "repository_id": 1154639888,
+          "push_id": 30611530840,
+          "ref": "refs/heads/main",
+          "head": "914d8aafd7c91ff24013f729e3464931dd66134d",
+          "before": "6bdb659d4ea92915c40ae5ca2ed60ca04b08f6bf",
+          "size": 0
+        },
+        "created_at": "2026-02-10T17:21:40Z"
+      },
+      {
+        "type": "PushEvent",
+        "repo": "Daniel-Ojo-Williams/ricky-mortem",
+        "payload": {
+          "repository_id": 1154639888,
+          "push_id": 30611124937,
+          "ref": "refs/heads/main",
+          "head": "6bdb659d4ea92915c40ae5ca2ed60ca04b08f6bf",
+          "before": "194e044c5dbbbfe7f8e827b19a046b8d10dd2632",
+          "size": 0
+        },
+        "created_at": "2026-02-10T17:08:16Z"
+      },
+      {
+        "type": "PushEvent",
+        "repo": "Daniel-Ojo-Williams/ricky-mortem",
+        "payload": {
+          "repository_id": 1154639888,
+          "push_id": 30609240565,
+          "ref": "refs/heads/main",
+          "head": "194e044c5dbbbfe7f8e827b19a046b8d10dd2632",
+          "before": "1685a0bcef9961266e34dca6c9a53c6b967be2fe",
+          "size": 0
+        },
+        "created_at": "2026-02-10T16:11:33Z"
+      }
+    ]
+  },
+  {
+    "login": "DonaldOgbe",
+    "name": "Donald Ogbe",
+    "bio": "...",
+    "avatar_url": "https://avatars.githubusercontent.com/u/110736524?v=4",
+    "html_url": "https://github.com/DonaldOgbe",
+    "public_repos": 14,
+    "followers": 1,
+    "stars": 0,
+    "languages": ["Java", "HTML", "JavaScript", "CSS"],
+    "recentEvents": [
+      {
+        "type": "PushEvent",
+        "repo": "DonaldOgbe/Random-Person-World-Explorer",
+        "payload": {
+          "repository_id": 1150979962,
+          "push_id": 30585059871,
+          "ref": "refs/heads/main",
+          "head": "59736ce8b1c8a232a79ae6bd9160f1d5118bfe55",
+          "before": "7aa3f423f168fb7573471e740cbb8004d10cf3f5",
+          "size": 0
+        },
+        "created_at": "2026-02-10T00:44:54Z"
+      },
+      {
+        "type": "PushEvent",
+        "repo": "DonaldOgbe/Random-Person-World-Explorer",
+        "payload": {
+          "repository_id": 1150979962,
+          "push_id": 30583167358,
+          "ref": "refs/heads/main",
+          "head": "7aa3f423f168fb7573471e740cbb8004d10cf3f5",
+          "before": "54710a661cd0637419e02097c3e58d41c2f71911",
+          "size": 0
+        },
+        "created_at": "2026-02-09T23:04:58Z"
+      },
+      {
+        "type": "PushEvent",
+        "repo": "DonaldOgbe/Random-Person-World-Explorer",
+        "payload": {
+          "repository_id": 1150979962,
+          "push_id": 30573116658,
+          "ref": "refs/heads/main",
+          "head": "12020da20a55356ceb23b5c8a0cd4d0407e917b1",
+          "before": "0a293385dcb797bb2778fba9982982f95670ae27",
+          "size": 0
+        },
+        "created_at": "2026-02-09T16:10:31Z"
+      },
+      {
+        "type": "PushEvent",
+        "repo": "DonaldOgbe/Random-Person-World-Explorer",
+        "payload": {
+          "repository_id": 1150979962,
+          "push_id": 30575894627,
+          "ref": "refs/heads/main",
+          "head": "54710a661cd0637419e02097c3e58d41c2f71911",
+          "before": "c388978dc70bf8858bd8e9777727e7667f4a0d3a",
+          "size": 0
+        },
+        "created_at": "2026-02-09T18:05:15Z"
+      },
+      {
+        "type": "PushEvent",
+        "repo": "DonaldOgbe/Random-Person-World-Explorer",
+        "payload": {
+          "repository_id": 1150979962,
+          "push_id": 30575743541,
+          "ref": "refs/heads/main",
+          "head": "c388978dc70bf8858bd8e9777727e7667f4a0d3a",
+          "before": "12020da20a55356ceb23b5c8a0cd4d0407e917b1",
+          "size": 0
+        },
+        "created_at": "2026-02-09T18:00:17Z"
+      }
+    ]
+  },
+  {
+    "login": "ebun-amoo",
+    "name": "Ebunoluwa Amoo",
+    "bio": "Software Engineer",
+    "avatar_url": "https://avatars.githubusercontent.com/u/91804574?v=4",
+    "html_url": "https://github.com/ebun-amoo",
+    "public_repos": 21,
+    "followers": 10,
+    "stars": 0,
+    "languages": ["Python", "HTML", "JavaScript", "Jupyter Notebook"],
+    "recentEvents": [
+      {
+        "type": "WatchEvent",
+        "repo": "GidigboGidigbo/js-learning",
+        "payload": {
+          "action": "started",
+          "size": 0
+        },
+        "created_at": "2026-01-30T14:07:36Z"
+      }
+    ]
+  },
+  {
+    "login": "Ghiftee",
+    "name": "Gift Olasubomi-Olukoju",
+    "bio": "Fullstack software developer who loves to read, write and listen to afrobeat music.\r\nLooking for my next remote job.",
+    "avatar_url": "https://avatars.githubusercontent.com/u/64774936?v=4",
+    "html_url": "https://github.com/Ghiftee",
+    "public_repos": 76,
+    "followers": 69,
+    "stars": 41,
+    "languages": ["JavaScript", "Ruby", "HTML", "PHP", "PLpgSQL"],
+    "recentEvents": [
+      {
+        "type": "PushEvent",
+        "repo": "Ghiftee/movie-cat-matcher",
+        "payload": {
+          "repository_id": 1154295591,
+          "push_id": 30611563036,
+          "ref": "refs/heads/main",
+          "head": "03cbd726d4683c5d8d7bd5d8645494e14abba249",
+          "before": "6bf577081dddac3d6148badc9d40bb2c50156cca",
+          "size": 0
+        },
+        "created_at": "2026-02-10T17:22:46Z"
+      },
+      {
+        "type": "PushEvent",
+        "repo": "Ghiftee/movie-cat-matcher",
+        "payload": {
+          "repository_id": 1154295591,
+          "push_id": 30605939959,
+          "ref": "refs/heads/main",
+          "head": "6bf577081dddac3d6148badc9d40bb2c50156cca",
+          "before": "a416ee9d2f4a8f423a84be17b33fdf2acb8b5a72",
+          "size": 0
+        },
+        "created_at": "2026-02-10T14:36:14Z"
+      },
+      {
+        "type": "PushEvent",
+        "repo": "Ghiftee/movie-cat-matcher",
+        "payload": {
+          "repository_id": 1154295591,
+          "push_id": 30601122945,
+          "ref": "refs/heads/main",
+          "head": "a416ee9d2f4a8f423a84be17b33fdf2acb8b5a72",
+          "before": "ea7623c27389ee6b9cf5b2384c2a2d2af894c66a",
+          "size": 0
+        },
+        "created_at": "2026-02-10T12:07:43Z"
+      },
+      {
+        "type": "PushEvent",
+        "repo": "Ghiftee/movie-cat-matcher",
+        "payload": {
+          "repository_id": 1154295591,
+          "push_id": 30598040003,
+          "ref": "refs/heads/main",
+          "head": "ea7623c27389ee6b9cf5b2384c2a2d2af894c66a",
+          "before": "2ec8abf4458e39880f000b0ea0c45a215e593a81",
+          "size": 0
+        },
+        "created_at": "2026-02-10T10:24:52Z"
+      },
+      {
+        "type": "CreateEvent",
+        "repo": "Ghiftee/movie-cat-matcher",
+        "payload": {
+          "ref": "main",
+          "ref_type": "branch",
+          "full_ref": "refs/heads/main",
+          "master_branch": "main",
+          "description": "A repo for testing apis of movies and cats using TMDB and cat ninja apis",
+          "pusher_type": "user",
+          "size": 0
+        },
+        "created_at": "2026-02-10T08:23:51Z"
+      }
+    ]
+  },
+  {
+    "login": "glaogideonelorm",
+    "name": "Glago Gideon Elorm",
+    "bio": "I am a CS major student in Ghana\r\nEnthusiastic about cybersecurity \r\nCurrently enrolled in University of Ghana\r\n",
+    "avatar_url": "https://avatars.githubusercontent.com/u/103961380?v=4",
+    "html_url": "https://github.com/glaogideonelorm",
+    "public_repos": 41,
+    "followers": 3,
+    "stars": 6,
+    "languages": ["TypeScript", "JavaScript", "Python", "HTML", "CSS"],
+    "recentEvents": [
+      {
+        "type": "WatchEvent",
+        "repo": "glaogideonelorm/BitQuest-1",
+        "payload": {
+          "action": "started",
+          "size": 0
+        },
+        "created_at": "2026-01-23T11:20:19Z"
+      },
+      {
+        "type": "MemberEvent",
+        "repo": "Multimedia-and-Web-Design-L300-25-26/first-assignment-glaogideonelorm",
+        "payload": {
+          "member": {
+            "login": "glaogideonelorm",
+            "id": 103961380,
+            "node_id": "U_kgDOBjJTJA",
+            "avatar_url": "https://avatars.githubusercontent.com/u/103961380?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/glaogideonelorm",
+            "html_url": "https://github.com/glaogideonelorm",
+            "followers_url": "https://api.github.com/users/glaogideonelorm/followers",
+            "following_url": "https://api.github.com/users/glaogideonelorm/following{/other_user}",
+            "gists_url": "https://api.github.com/users/glaogideonelorm/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/glaogideonelorm/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/glaogideonelorm/subscriptions",
+            "organizations_url": "https://api.github.com/users/glaogideonelorm/orgs",
+            "repos_url": "https://api.github.com/users/glaogideonelorm/repos",
+            "events_url": "https://api.github.com/users/glaogideonelorm/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/glaogideonelorm/received_events",
+            "type": "User",
+            "user_view_type": "public",
+            "site_admin": false
+          },
+          "action": "added",
+          "size": 0
+        },
+        "created_at": "2026-01-15T19:04:53Z"
+      }
+    ]
+  },
+  {
+    "login": "Zubbee18",
+    "name": "Deborah Anyachukwu",
+    "bio": "...",
+    "avatar_url": "https://avatars.githubusercontent.com/u/108271834?v=4",
+    "html_url": "https://github.com/Zubbee18",
+    "public_repos": 11,
+    "followers": 3,
+    "stars": 0,
+    "languages": ["HTML", "Python", "CSS", "Shell"],
+    "recentEvents": [
+      {
+        "type": "WatchEvent",
+        "repo": "GidigboGidigbo/js-learning",
+        "payload": {
+          "action": "started",
+          "size": 0
+        },
+        "created_at": "2026-01-29T19:23:03Z"
+      },
+      {
+        "type": "PushEvent",
+        "repo": "Zubbee18/Zubbee18.github.io",
+        "payload": {
+          "repository_id": 1121067162,
+          "push_id": 30235791104,
+          "ref": "refs/heads/main",
+          "head": "ede409237daa29d158814764266c37eef8e4bad3",
+          "before": "7d4fa25fcd25a304c5d9fadb1d0efb4e940a0522",
+          "size": 0
+        },
+        "created_at": "2026-01-29T13:24:37Z"
+      },
+      {
+        "type": "CreateEvent",
+        "repo": "Zubbee18/skills-introduction-to-github",
+        "payload": {
+          "ref": "main",
+          "ref_type": "branch",
+          "full_ref": "refs/heads/main",
+          "master_branch": "main",
+          "description": "My clone repository",
+          "pusher_type": "user",
+          "size": 0
+        },
+        "created_at": "2026-01-28T18:21:01Z"
+      },
+      {
+        "type": "PushEvent",
+        "repo": "Zubbee18/urban-telegram",
+        "payload": {
+          "repository_id": 1140524454,
+          "push_id": 30045202115,
+          "ref": "refs/heads/main",
+          "head": "81e9788ee56d36f963ba558b57cf5696e05ade36",
+          "before": "909f9ceac5bd628bebed0ca71b621c407ab2bc6c",
+          "size": 0
+        },
+        "created_at": "2026-01-23T12:09:20Z"
+      },
+      {
+        "type": "PushEvent",
+        "repo": "Zubbee18/urban-telegram",
+        "payload": {
+          "repository_id": 1140524454,
+          "push_id": 30045146441,
+          "ref": "refs/heads/main",
+          "head": "909f9ceac5bd628bebed0ca71b621c407ab2bc6c",
+          "before": "d4ae5dc5f9e235e4f6a8a4a26a054d5a37af286c",
+          "size": 0
+        },
+        "created_at": "2026-01-23T12:07:13Z"
+      }
+    ]
+  },
+  {
+    "login": "Sodiaro",
+    "name": "Sodiq Semiu",
+    "bio": "Software Engineer | Node.js | NestJS | TypeScript\r\n\r\nBuilding scalable APIs, backend systems, and full-stack applications with modern web technology",
+    "avatar_url": "https://avatars.githubusercontent.com/u/107257438?v=4",
+    "html_url": "https://github.com/Sodiaro",
+    "public_repos": 18,
+    "followers": 17,
+    "stars": 0,
+    "languages": ["JavaScript", "TypeScript", "HTML"],
+    "recentEvents": [
+      {
+        "type": "PushEvent",
+        "repo": "Sodiaro/pokemon-nasa-api",
+        "payload": {
+          "repository_id": 1154628551,
+          "push_id": 30611192297,
+          "ref": "refs/heads/main",
+          "head": "4a3a5626464ef915706c0f24afe659a3efdac8d8",
+          "before": "7c84cf43766102bbb7b90cb79b4fc2d74c0ce9f2",
+          "size": 0
+        },
+        "created_at": "2026-02-10T17:10:23Z"
+      },
+      {
+        "type": "PushEvent",
+        "repo": "Sodiaro/pokemon-nasa-api",
+        "payload": {
+          "repository_id": 1154628551,
+          "push_id": 30610893506,
+          "ref": "refs/heads/main",
+          "head": "7c84cf43766102bbb7b90cb79b4fc2d74c0ce9f2",
+          "before": "02b2d215b1aff3aaeb75a6f3d61ab357be4a53f3",
+          "size": 0
+        },
+        "created_at": "2026-02-10T17:01:15Z"
+      },
+      {
+        "type": "CreateEvent",
+        "repo": "Sodiaro/pokemon-nasa-api",
+        "payload": {
+          "ref": "main",
+          "ref_type": "branch",
+          "full_ref": "refs/heads/main",
+          "master_branch": "main",
+          "description": null,
+          "pusher_type": "user",
+          "size": 0
+        },
+        "created_at": "2026-02-10T16:00:57Z"
+      },
+      {
+        "type": "PushEvent",
+        "repo": "Sodiaro/Community-API-Backend",
+        "payload": {
+          "repository_id": 1119019658,
+          "push_id": 30580402681,
+          "ref": "refs/heads/main",
+          "head": "236140b945cf5929e1a361f0fbc98ffcee2dbb81",
+          "before": "7c74a8c6255c079da99fad54911cbf5965702595",
+          "size": 0
+        },
+        "created_at": "2026-02-09T21:09:11Z"
+      },
+      {
+        "type": "PullRequestEvent",
+        "repo": "DevByte-Community/Community-API-Backend",
+        "payload": {
+          "action": "opened",
+          "number": 80,
+          "pull_request": {
+            "url": "https://api.github.com/repos/DevByte-Community/Community-API-Backend/pulls/80",
+            "id": 3259962574,
+            "number": 80,
+            "head": {
+              "ref": "feat/learning-crud",
+              "sha": "e5536429ddee85cfbbea7b56a8e6090cc31b1532",
+              "repo": {
+                "id": 1119019658,
+                "url": "https://api.github.com/repos/Sodiaro/Community-API-Backend",
+                "name": "Community-API-Backend"
+              }
+            },
+            "base": {
+              "ref": "main",
+              "sha": "236140b945cf5929e1a361f0fbc98ffcee2dbb81",
+              "repo": {
+                "id": 1053402420,
+                "url": "https://api.github.com/repos/DevByte-Community/Community-API-Backend",
+                "name": "Community-API-Backend"
+              }
+            }
+          },
+          "size": 0
+        },
+        "created_at": "2026-02-08T15:45:53Z"
+      }
+    ]
+  },
+  {
+    "login": "Purpose-Longe",
+    "name": "Purpose Longe",
+    "bio": "...",
+    "avatar_url": "https://avatars.githubusercontent.com/u/68944848?v=4",
+    "html_url": "https://github.com/Purpose-Longe",
+    "public_repos": 21,
+    "followers": 1,
+    "stars": 1,
+    "languages": ["HTML", "JavaScript", "CSS", "TypeScript"],
+    "recentEvents": [
+      {
+        "type": "PushEvent",
+        "repo": "Purpose-Longe/plated",
+        "payload": {
+          "repository_id": 1152724405,
+          "push_id": 30609065481,
+          "ref": "refs/heads/main",
+          "head": "2ada0b31487eb2cdfa557790b5627029666a564f",
+          "before": "836452391283c8961967f18b2f8d34d53034043b",
+          "size": 0
+        },
+        "created_at": "2026-02-10T16:06:21Z"
+      },
+      {
+        "type": "PushEvent",
+        "repo": "Purpose-Longe/plated",
+        "payload": {
+          "repository_id": 1152724405,
+          "push_id": 30601820297,
+          "ref": "refs/heads/main",
+          "head": "836452391283c8961967f18b2f8d34d53034043b",
+          "before": "d9a41c7096428ac54b00e20400a11cb1bd79a3b3",
+          "size": 0
+        },
+        "created_at": "2026-02-10T12:31:16Z"
+      },
+      {
+        "type": "PushEvent",
+        "repo": "Purpose-Longe/plated",
+        "payload": {
+          "repository_id": 1152724405,
+          "push_id": 30599755079,
+          "ref": "refs/heads/main",
+          "head": "d9a41c7096428ac54b00e20400a11cb1bd79a3b3",
+          "before": "3f6be479be17e3c2e85127d4e842b7bfb0b161b8",
+          "size": 0
+        },
+        "created_at": "2026-02-10T11:21:00Z"
+      },
+      {
+        "type": "PushEvent",
+        "repo": "Purpose-Longe/plated",
+        "payload": {
+          "repository_id": 1152724405,
+          "push_id": 30572565930,
+          "ref": "refs/heads/main",
+          "head": "3f6be479be17e3c2e85127d4e842b7bfb0b161b8",
+          "before": "58b3c2b0cf038e359cca93b5c33f55ef7e7e98f1",
+          "size": 0
+        },
+        "created_at": "2026-02-09T15:53:24Z"
+      },
+      {
+        "type": "PushEvent",
+        "repo": "Purpose-Longe/plated",
+        "payload": {
+          "repository_id": 1152724405,
+          "push_id": 30543516515,
+          "ref": "refs/heads/main",
+          "head": "58b3c2b0cf038e359cca93b5c33f55ef7e7e98f1",
+          "before": "afb3a4895708bd489c0be702e1ec2bc8690e3f9d",
+          "size": 0
+        },
+        "created_at": "2026-02-08T17:01:24Z"
+      }
+    ]
+  },
+  {
+    "login": "Precious-Bob",
+    "name": "Preciousxx",
+    "bio": "Software Developer (Nestjs, Angular)",
+    "avatar_url": "https://avatars.githubusercontent.com/u/91839144?v=4",
+    "html_url": "https://github.com/Precious-Bob",
+    "public_repos": 42,
+    "followers": 1,
+    "stars": 3,
+    "languages": ["JavaScript", "TypeScript", "CSS", "HTML"],
+    "recentEvents": [
+      {
+        "type": "CreateEvent",
+        "repo": "Precious-Bob/github_public_repo_counter",
+        "payload": {
+          "ref": "master",
+          "ref_type": "branch",
+          "full_ref": "refs/heads/master",
+          "master_branch": "master",
+          "description": "An app to count the public repo available for a particular user",
+          "pusher_type": "user",
+          "size": 0
+        },
+        "created_at": "2026-02-10T15:52:33Z"
+      },
+      {
+        "type": "CreateEvent",
+        "repo": "Precious-Bob/github_public_repo_counter",
+        "payload": {
+          "ref": "main",
+          "ref_type": "branch",
+          "full_ref": "refs/heads/main",
+          "master_branch": "master",
+          "description": "An app to count the public repo available for a particular user",
+          "pusher_type": "user",
+          "size": 0
+        },
+        "created_at": "2026-02-10T15:50:43Z"
+      },
+      {
+        "type": "DeleteEvent",
+        "repo": "Precious-Bob/github_public_repo_counter",
+        "payload": {
+          "ref": "main",
+          "ref_type": "branch",
+          "full_ref": "refs/heads/main",
+          "pusher_type": "user",
+          "size": 0
+        },
+        "created_at": "2026-02-10T15:58:00Z"
+      },
+      {
+        "type": "PushEvent",
+        "repo": "Precious-Bob/guess_gender",
+        "payload": {
+          "repository_id": 1154161213,
+          "push_id": 30608255491,
+          "ref": "refs/heads/master",
+          "head": "04f8cf38fa52922f477491180a51367c151f7b42",
+          "before": "7250592f540220b8adb8912b83da73dd138b15a7",
+          "size": 0
+        },
+        "created_at": "2026-02-10T15:42:59Z"
+      },
+      {
+        "type": "DeleteEvent",
+        "repo": "Precious-Bob/guess_gender",
+        "payload": {
+          "ref": "main",
+          "ref_type": "branch",
+          "full_ref": "refs/heads/main",
+          "pusher_type": "user",
+          "size": 0
+        },
+        "created_at": "2026-02-10T04:44:27Z"
+      }
+    ]
+  },
+  {
+    "login": "osadeleke",
+    "name": "Olusegun .O. ADELEKE",
+    "bio": "Software and Cloud Engineer | Alumni of ALX Africa SE & Altschool Africa School of Engineering.",
+    "avatar_url": "https://avatars.githubusercontent.com/u/81057499?v=4",
+    "html_url": "https://github.com/osadeleke",
+    "public_repos": 46,
+    "followers": 196,
+    "stars": 10,
+    "languages": ["Python", "Shell", "JavaScript", "HTML", "C"],
+    "recentEvents": [
+      {
+        "type": "PushEvent",
+        "repo": "osadeleke/levanter",
+        "payload": {
+          "repository_id": 1096044673,
+          "push_id": 29709555117,
+          "ref": "refs/heads/master",
+          "head": "e4775444a37a295e45eaf0ccd0737f0f3c0ddcc2",
+          "before": "bcd18cdfa0228f5642751c2e3046edda7936edef",
+          "size": 0
+        },
+        "created_at": "2026-01-13T04:36:15Z"
+      }
+    ]
+  },
+  {
+    "login": "Macdavid28",
+    "name": "Temiloluwa David",
+    "bio": "I'm a full-stack developer who's design-minded, code-driven, and. I turn ideas into fast, functional, and scalable apps. \r\nLet's build something innovative.",
+    "avatar_url": "https://avatars.githubusercontent.com/u/113537945?v=4",
+    "html_url": "https://github.com/Macdavid28",
+    "public_repos": 15,
+    "followers": 35,
+    "stars": 4,
+    "languages": ["JavaScript", "HTML", "CSS"],
+    "recentEvents": [
+      {
+        "type": "PushEvent",
+        "repo": "Macdavid28/space-dwellers",
+        "payload": {
+          "repository_id": 1154088660,
+          "push_id": 30599716450,
+          "ref": "refs/heads/main",
+          "head": "f18e80db3648e61d9bc52ebddaa2b924101325ce",
+          "before": "10f2f2aee1554d9a241c26918419d867de877760",
+          "size": 0
+        },
+        "created_at": "2026-02-10T11:19:39Z"
+      },
+      {
+        "type": "CreateEvent",
+        "repo": "Macdavid28/space-dwellers",
+        "payload": {
+          "ref": "main",
+          "ref_type": "branch",
+          "full_ref": "refs/heads/main",
+          "master_branch": "main",
+          "description": null,
+          "pusher_type": "user",
+          "size": 0
+        },
+        "created_at": "2026-02-10T02:19:12Z"
+      },
+      {
+        "type": "PushEvent",
+        "repo": "Macdavid28/Macdavid28",
+        "payload": {
+          "repository_id": 863427797,
+          "push_id": 30585833315,
+          "ref": "refs/heads/main",
+          "head": "0fb7b61087fd82575dbcf0bc5a82f5ad6d944321",
+          "before": "e278d02845cb39ef57bf657ba1fbd4d6a81e8d76",
+          "size": 0
+        },
+        "created_at": "2026-02-10T01:26:08Z"
+      },
+      {
+        "type": "ForkEvent",
+        "repo": "DonaldOgbe/DonaldOgbe",
+        "payload": {
+          "action": "forked",
+          "forkee": {
+            "id": 1154065778,
+            "node_id": "R_kgDORMmlcg",
+            "name": "DonaldOgbe",
+            "full_name": "Macdavid28/DonaldOgbe",
+            "private": false,
+            "owner": {
+              "login": "Macdavid28",
+              "id": 113537945,
+              "node_id": "U_kgDOBsRzmQ",
+              "avatar_url": "https://avatars.githubusercontent.com/u/113537945?v=4",
+              "gravatar_id": "",
+              "url": "https://api.github.com/users/Macdavid28",
+              "html_url": "https://github.com/Macdavid28",
+              "followers_url": "https://api.github.com/users/Macdavid28/followers",
+              "following_url": "https://api.github.com/users/Macdavid28/following{/other_user}",
+              "gists_url": "https://api.github.com/users/Macdavid28/gists{/gist_id}",
+              "starred_url": "https://api.github.com/users/Macdavid28/starred{/owner}{/repo}",
+              "subscriptions_url": "https://api.github.com/users/Macdavid28/subscriptions",
+              "organizations_url": "https://api.github.com/users/Macdavid28/orgs",
+              "repos_url": "https://api.github.com/users/Macdavid28/repos",
+              "events_url": "https://api.github.com/users/Macdavid28/events{/privacy}",
+              "received_events_url": "https://api.github.com/users/Macdavid28/received_events",
+              "type": "User",
+              "user_view_type": "public",
+              "site_admin": false
+            },
+            "html_url": "https://github.com/Macdavid28/DonaldOgbe",
+            "description": null,
+            "fork": true,
+            "url": "https://api.github.com/repos/Macdavid28/DonaldOgbe",
+            "forks_url": "https://api.github.com/repos/Macdavid28/DonaldOgbe/forks",
+            "keys_url": "https://api.github.com/repos/Macdavid28/DonaldOgbe/keys{/key_id}",
+            "collaborators_url": "https://api.github.com/repos/Macdavid28/DonaldOgbe/collaborators{/collaborator}",
+            "teams_url": "https://api.github.com/repos/Macdavid28/DonaldOgbe/teams",
+            "hooks_url": "https://api.github.com/repos/Macdavid28/DonaldOgbe/hooks",
+            "issue_events_url": "https://api.github.com/repos/Macdavid28/DonaldOgbe/issues/events{/number}",
+            "events_url": "https://api.github.com/repos/Macdavid28/DonaldOgbe/events",
+            "assignees_url": "https://api.github.com/repos/Macdavid28/DonaldOgbe/assignees{/user}",
+            "branches_url": "https://api.github.com/repos/Macdavid28/DonaldOgbe/branches{/branch}",
+            "tags_url": "https://api.github.com/repos/Macdavid28/DonaldOgbe/tags",
+            "blobs_url": "https://api.github.com/repos/Macdavid28/DonaldOgbe/git/blobs{/sha}",
+            "git_tags_url": "https://api.github.com/repos/Macdavid28/DonaldOgbe/git/tags{/sha}",
+            "git_refs_url": "https://api.github.com/repos/Macdavid28/DonaldOgbe/git/refs{/sha}",
+            "trees_url": "https://api.github.com/repos/Macdavid28/DonaldOgbe/git/trees{/sha}",
+            "statuses_url": "https://api.github.com/repos/Macdavid28/DonaldOgbe/statuses/{sha}",
+            "languages_url": "https://api.github.com/repos/Macdavid28/DonaldOgbe/languages",
+            "stargazers_url": "https://api.github.com/repos/Macdavid28/DonaldOgbe/stargazers",
+            "contributors_url": "https://api.github.com/repos/Macdavid28/DonaldOgbe/contributors",
+            "subscribers_url": "https://api.github.com/repos/Macdavid28/DonaldOgbe/subscribers",
+            "subscription_url": "https://api.github.com/repos/Macdavid28/DonaldOgbe/subscription",
+            "commits_url": "https://api.github.com/repos/Macdavid28/DonaldOgbe/commits{/sha}",
+            "git_commits_url": "https://api.github.com/repos/Macdavid28/DonaldOgbe/git/commits{/sha}",
+            "comments_url": "https://api.github.com/repos/Macdavid28/DonaldOgbe/comments{/number}",
+            "issue_comment_url": "https://api.github.com/repos/Macdavid28/DonaldOgbe/issues/comments{/number}",
+            "contents_url": "https://api.github.com/repos/Macdavid28/DonaldOgbe/contents/{+path}",
+            "compare_url": "https://api.github.com/repos/Macdavid28/DonaldOgbe/compare/{base}...{head}",
+            "merges_url": "https://api.github.com/repos/Macdavid28/DonaldOgbe/merges",
+            "archive_url": "https://api.github.com/repos/Macdavid28/DonaldOgbe/{archive_format}{/ref}",
+            "downloads_url": "https://api.github.com/repos/Macdavid28/DonaldOgbe/downloads",
+            "issues_url": "https://api.github.com/repos/Macdavid28/DonaldOgbe/issues{/number}",
+            "pulls_url": "https://api.github.com/repos/Macdavid28/DonaldOgbe/pulls{/number}",
+            "milestones_url": "https://api.github.com/repos/Macdavid28/DonaldOgbe/milestones{/number}",
+            "notifications_url": "https://api.github.com/repos/Macdavid28/DonaldOgbe/notifications{?since,all,participating}",
+            "labels_url": "https://api.github.com/repos/Macdavid28/DonaldOgbe/labels{/name}",
+            "releases_url": "https://api.github.com/repos/Macdavid28/DonaldOgbe/releases{/id}",
+            "deployments_url": "https://api.github.com/repos/Macdavid28/DonaldOgbe/deployments",
+            "created_at": "2026-02-10T01:17:27Z",
+            "updated_at": "2026-02-10T01:17:28Z",
+            "pushed_at": "2025-04-21T16:47:39Z",
+            "git_url": "git://github.com/Macdavid28/DonaldOgbe.git",
+            "ssh_url": "git@github.com:Macdavid28/DonaldOgbe.git",
+            "clone_url": "https://github.com/Macdavid28/DonaldOgbe.git",
+            "svn_url": "https://github.com/Macdavid28/DonaldOgbe",
+            "homepage": null,
+            "size": 2,
+            "stargazers_count": 0,
+            "watchers_count": 0,
+            "language": null,
+            "has_issues": false,
+            "has_projects": true,
+            "has_downloads": true,
+            "has_wiki": true,
+            "has_pages": false,
+            "has_discussions": false,
+            "forks_count": 0,
+            "mirror_url": null,
+            "archived": false,
+            "disabled": false,
+            "open_issues_count": 0,
+            "license": null,
+            "allow_forking": true,
+            "is_template": false,
+            "web_commit_signoff_required": false,
+            "topics": [],
+            "visibility": "public",
+            "forks": 0,
+            "open_issues": 0,
+            "watchers": 0,
+            "default_branch": "main"
+          },
+          "size": 0
+        },
+        "created_at": "2026-02-10T01:17:27Z"
+      },
+      {
+        "type": "PushEvent",
+        "repo": "Macdavid28/nobzo-blog",
+        "payload": {
+          "repository_id": 1152136848,
+          "push_id": 30524301148,
+          "ref": "refs/heads/main",
+          "head": "801219c615b24e48018ca867d491a0e4a02c8dfc",
+          "before": "d8e8034575288398ddfb6ec2cfe04ef8cb9ad650",
+          "size": 0
+        },
+        "created_at": "2026-02-07T17:07:26Z"
+      }
+    ]
+  },
+  {
+    "login": "lowlifehighway",
+    "name": "Victor Ayoola",
+    "bio": "...",
+    "avatar_url": "https://avatars.githubusercontent.com/u/139157739?v=4",
+    "html_url": "https://github.com/lowlifehighway",
+    "public_repos": 15,
+    "followers": 2,
+    "stars": 1,
+    "languages": ["HTML", "JavaScript", "CSS"],
+    "recentEvents": [
+      {
+        "type": "PushEvent",
+        "repo": "lowlifehighway/meet-new-people",
+        "payload": {
+          "repository_id": 1154497917,
+          "push_id": 30603275457,
+          "ref": "refs/heads/main",
+          "head": "6e9ec5469e7ced6cf4d606ceb710bce9146a00f3",
+          "before": "380c8fcf8da10dd85f23422de9310791ccafc7d9",
+          "size": 0
+        },
+        "created_at": "2026-02-10T13:17:08Z"
+      },
+      {
+        "type": "CreateEvent",
+        "repo": "lowlifehighway/meet-new-people",
+        "payload": {
+          "ref": "main",
+          "ref_type": "branch",
+          "full_ref": "refs/heads/main",
+          "master_branch": "main",
+          "description": null,
+          "pusher_type": "user",
+          "size": 0
+        },
+        "created_at": "2026-02-10T13:08:58Z"
+      },
+      {
+        "type": "CreateEvent",
+        "repo": "lowlifehighway/wordleapp",
+        "payload": {
+          "ref": "main",
+          "ref_type": "branch",
+          "full_ref": "refs/heads/main",
+          "master_branch": "main",
+          "description": null,
+          "pusher_type": "user",
+          "size": 0
+        },
+        "created_at": "2026-02-01T11:09:07Z"
+      }
+    ]
+  },
+  {
+    "login": "KikiXoxo",
+    "name": "Shekinah Adeogo",
+    "bio": "...",
+    "avatar_url": "https://avatars.githubusercontent.com/u/87855395?v=4",
+    "html_url": "https://github.com/KikiXoxo",
+    "public_repos": 32,
+    "followers": 4,
+    "stars": 0,
+    "languages": ["JavaScript", "HTML", "TypeScript", "SCSS", "Vue"],
+    "recentEvents": [
+      {
+        "type": "PushEvent",
+        "repo": "KikiXoxo/trivia-whiskers",
+        "payload": {
+          "repository_id": 1154664993,
+          "push_id": 30610583487,
+          "ref": "refs/heads/main",
+          "head": "d5fa0275cafe8a47908c50d56caf6d4fa33f8f1b",
+          "before": "1a0f2388f5ae3461617b1a75d9550fade215b731",
+          "size": 0
+        },
+        "created_at": "2026-02-10T16:52:04Z"
+      },
+      {
+        "type": "CreateEvent",
+        "repo": "KikiXoxo/trivia-whiskers",
+        "payload": {
+          "ref": "main",
+          "ref_type": "branch",
+          "full_ref": "refs/heads/main",
+          "master_branch": "main",
+          "description": null,
+          "pusher_type": "user",
+          "size": 0
+        },
+        "created_at": "2026-02-10T16:38:39Z"
+      },
+      {
+        "type": "WatchEvent",
+        "repo": "GidigboGidigbo/js-learning",
+        "payload": {
+          "action": "started",
+          "size": 0
+        },
+        "created_at": "2026-01-29T19:23:26Z"
+      }
+    ]
+  },
+  {
+    "login": "KazeemOluwanifemi",
+    "name": "Kazeem Oluwanifemi",
+    "bio": "...",
+    "avatar_url": "https://avatars.githubusercontent.com/u/143910571?v=4",
+    "html_url": "https://github.com/KazeemOluwanifemi",
+    "public_repos": 23,
+    "followers": 3,
+    "stars": 0,
+    "languages": ["HTML", "Java", "JavaScript", "TypeScript", "C"],
+    "recentEvents": [
+      {
+        "type": "PushEvent",
+        "repo": "KazeemOluwanifemi/basic-js-assignment",
+        "payload": {
+          "repository_id": 1109034446,
+          "push_id": 29980240484,
+          "ref": "refs/heads/main",
+          "head": "f02d25b2d45684abe60a33ef9efefab77a7303e8",
+          "before": "121d9e17f2dafa94115ed38e0b2d80a879fb48d7",
+          "size": 0
+        },
+        "created_at": "2026-01-21T15:38:46Z"
+      },
+      {
+        "type": "PushEvent",
+        "repo": "KazeemOluwanifemi/basic-js-assignment",
+        "payload": {
+          "repository_id": 1109034446,
+          "push_id": 29979944175,
+          "ref": "refs/heads/main",
+          "head": "121d9e17f2dafa94115ed38e0b2d80a879fb48d7",
+          "before": "ce1b5280a60dfbb9fe44054ac4d7d1852eaed3bd",
+          "size": 0
+        },
+        "created_at": "2026-01-21T15:29:32Z"
+      }
+    ]
+  },
+  {
+    "login": "JohnAkindipe",
+    "name": null,
+    "bio": "...",
+    "avatar_url": "https://avatars.githubusercontent.com/u/85188938?v=4",
+    "html_url": "https://github.com/JohnAkindipe",
+    "public_repos": 11,
+    "followers": 0,
+    "stars": 0,
+    "languages": ["Go", "JavaScript", "TypeScript", "HTML"],
+    "recentEvents": [
+      {
+        "type": "PushEvent",
+        "repo": "JohnAkindipe/greenlight-movie-api",
+        "payload": {
+          "repository_id": 964469890,
+          "push_id": 30610062295,
+          "ref": "refs/heads/main",
+          "head": "751871ff329899cc150b52eb9a137ab23c8c5174",
+          "before": "5d750240bcd00aa135d1f12705a1e2c70407876b",
+          "size": 0
+        },
+        "created_at": "2026-02-10T16:36:08Z"
+      },
+      {
+        "type": "PushEvent",
+        "repo": "JohnAkindipe/GenderChef",
+        "payload": {
+          "repository_id": 1152993465,
+          "push_id": 30595284589,
+          "ref": "refs/heads/master",
+          "head": "e23f860a700a1ff59e580590a2ed3586c5380dce",
+          "before": "5e27e6614d86adb15af11910abf949cb8765d37d",
+          "size": 0
+        },
+        "created_at": "2026-02-10T08:55:46Z"
+      },
+      {
+        "type": "PushEvent",
+        "repo": "JohnAkindipe/GenderChef",
+        "payload": {
+          "repository_id": 1152993465,
+          "push_id": 30578004467,
+          "ref": "refs/heads/master",
+          "head": "5e27e6614d86adb15af11910abf949cb8765d37d",
+          "before": "e863ec0beea1f73f2afe5d5c51762256bc0c81fb",
+          "size": 0
+        },
+        "created_at": "2026-02-09T19:36:00Z"
+      },
+      {
+        "type": "PushEvent",
+        "repo": "JohnAkindipe/GenderChef",
+        "payload": {
+          "repository_id": 1152993465,
+          "push_id": 30576182842,
+          "ref": "refs/heads/master",
+          "head": "e863ec0beea1f73f2afe5d5c51762256bc0c81fb",
+          "before": "27adf04f00f89b795ce29e21d31df9bf7e41dd3a",
+          "size": 0
+        },
+        "created_at": "2026-02-09T18:15:29Z"
+      },
+      {
+        "type": "PushEvent",
+        "repo": "JohnAkindipe/greenlight-movie-api",
+        "payload": {
+          "repository_id": 964469890,
+          "push_id": 30573262334,
+          "ref": "refs/heads/main",
+          "head": "5d750240bcd00aa135d1f12705a1e2c70407876b",
+          "before": "2e51bc1dbffd8b6b1abef9a8ee0abad7998218e8",
+          "size": 0
+        },
+        "created_at": "2026-02-09T16:16:58Z"
+      }
+    ]
+  },
+  {
+    "login": "GrimTech",
+    "name": "Jackson",
+    "bio": "The Honored One.",
+    "avatar_url": "https://avatars.githubusercontent.com/u/89636876?v=4",
+    "html_url": "https://github.com/GrimTech",
+    "public_repos": 34,
+    "followers": 3,
+    "stars": 1,
+    "languages": ["JavaScript", "CSS", "Jupyter Notebook", "C++", "Python"],
+    "recentEvents": [
+      {
+        "type": "PushEvent",
+        "repo": "GrimTech/GrimTech.github.io",
+        "payload": {
+          "repository_id": 651905498,
+          "push_id": 30611013623,
+          "ref": "refs/heads/main",
+          "head": "e003e8a2e2b38b323c774e7ed5deeb7d9766125a",
+          "before": "5d9ab358d0e46437e465a2198419a9d17dbac127",
+          "size": 0
+        },
+        "created_at": "2026-02-10T17:04:48Z"
+      },
+      {
+        "type": "WatchEvent",
+        "repo": "GidigboGidigbo/js-learning",
+        "payload": {
+          "action": "started",
+          "size": 0
+        },
+        "created_at": "2026-01-29T19:23:12Z"
+      }
+    ]
+  }
+]
